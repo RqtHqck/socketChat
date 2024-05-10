@@ -1,0 +1,11 @@
+# Ignore all files:
+*
+# But do not ignore directories:
+!*/
+# And do not ignore files with .gitignore and .md extensions:
+!*.gitignore
+!*.md
+
+# Folders
+/test/
+/venv/
